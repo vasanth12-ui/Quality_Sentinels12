@@ -34,19 +34,6 @@ The **Quality Sentinels** project involves testing the **Style Mate Online Store
 
 ---
 
-### Git
-- **Description**: Git is a version control system that helps track changes in source code during software development. It allows multiple developers to collaborate on a project, enabling branching, merging, and maintaining a history of code changes.
-- **Key Features**:
-  - Distributed version control.
-  - Branching and merging for parallel development.
-  - Efficient tracking of changes in large projects.
-  - Integration with platforms like GitHub, GitLab, and Bitbucket.
-- **Official Website**: [Git](https://git-scm.com/)
-
-![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
-
----
-
 ## Test Plan
 
 ### Prepared By: 
