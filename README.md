@@ -1,10 +1,51 @@
 # Quality Sentinels - Style Mate Online Store Testing
 
-## Project Overview
+## About
 The **Quality Sentinels** project involves testing the **Style Mate Online Store** website to ensure its functionality, usability, performance, and UI responsiveness. This repository contains the details of the test plan, the testing approach, and the results for the testing process.
 
 ### Website Link
 [Style Mate Online Store](https://luni-interface-029.vercel.app/)
+
+## Tech Stack
+
+### JavaScript
+- **Description**: JavaScript is a dynamic programming language that is widely used for creating interactive web applications. It is the core language for both client-side and server-side development. In this project, JavaScript was used for implementing test automation scripts with the Cypress framework.
+- **Key Features**:
+  - High-level, interpreted scripting language.
+  - Supports asynchronous programming with Promises, async/await.
+  - Widely supported across all browsers.
+  - Enables full-stack development (Node.js on the server-side).
+- **Official Website**: [JavaScript](https://www.javascript.com/)
+
+![JavaScript Logo](https://www.javascript.com/assets/images/logo.svg)
+
+---
+
+### Cypress
+- **Description**: Cypress is an end-to-end testing framework that allows you to write automated tests for web applications. It runs directly in the browser and provides a fast, easy, and reliable testing environment.
+- **Key Features**:
+  - Fast and reliable testing.
+  - Real-time browser interaction.
+  - Powerful debugging capabilities with screenshots and video recording.
+  - Test automation with support for various browsers.
+- **Official Website**: [Cypress](https://www.cypress.io/)
+
+![Cypress Logo](https://www.cypress.io/favicon.ico)
+
+---
+
+### Git
+- **Description**: Git is a version control system that helps track changes in source code during software development. It allows multiple developers to collaborate on a project, enabling branching, merging, and maintaining a history of code changes.
+- **Key Features**:
+  - Distributed version control.
+  - Branching and merging for parallel development.
+  - Efficient tracking of changes in large projects.
+  - Integration with platforms like GitHub, GitLab, and Bitbucket.
+- **Official Website**: [Git](https://git-scm.com/)
+
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+
+---
 
 ## Test Plan
 
